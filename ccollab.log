@@ -3,7 +3,7 @@ FINE: client version: Collaborator version 9.4.9401.001
 квіт 19, 2016 11:51:32 AM com.smartbear.ccollab.CLI enableDebug
 FINE: Parsing arguments: [--debug, addchanges, new, .]
 квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logVmMemory
-FINE: VM Max Memory: 3797417984
+FINE: VM Max Memory: 3797417984aasd
 квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logVmMemory
 FINE: VM Current Memory: 255852544
 квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logSystemProperties
