@@ -19,8 +19,7 @@ SecurityConfiguration for ESAPI.printProperties not found in ESAPI.properties. U
 SecurityConfiguration for Encryptor.CipherTransformation not found in ESAPI.properties. Using default: AES/CBC/PKCS5Padding
 SecurityConfiguration for ESAPI.Encoder not found in ESAPI.properties. Using default: org.owasp.esapi.reference.DefaultEncoder
 SecurityConfiguration for ESAPI.Logger not found in ESAPI.properties. Using default: org.owasp.esapi.reference.JavaLogFactory
-SecurityConfiguration for Logger.LogApplicationName not found in ESAPI.properties. Using default: true
-SecurityConfiguration for Logger.LogServerIP not found in ESAPI.properties. Using default: true
+SecurityConfiguration for Logger.LogApplicationName not found in ESAPI.properties. Using default: trueSecurityConfiguration for Logger.LogServerIP not found in ESAPI.properties. Using default: true
 SecurityConfiguration for Logger.ApplicationName not found in ESAPI.properties. Using default: DefaultName
 SecurityConfiguration for ESAPI.Encoder not found in ESAPI.properties. Using default: org.owasp.esapi.reference.DefaultEncoder
 SecurityConfiguration for ESAPI.Encoder not found in ESAPI.properties. Using default: org.owasp.esapi.reference.DefaultEncoder
@@ -3861,3 +3860,8 @@ SecurityConfiguration for ESAPI.Encoder not found in ESAPI.properties. Using def
 SecurityConfiguration for ESAPI.Encoder not found in ESAPI.properties. Using default: org.owasp.esapi.reference.DefaultEncoder
 SecurityConfiguration for ESAPI.Encoder not found in ESAPI.properties. Using default: org.owasp.esapi.reference.DefaultEncoder
 SecurityConfiguration for ESAPI.Encoder not found in ESAPI.properties. Using default: org.owasp.esapi.reference.DefaultEncode
+
+
+
+
+asdfsd
