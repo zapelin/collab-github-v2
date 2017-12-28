@@ -19668,3 +19668,4 @@ com.smartbear.ccollab.service.api.v7001.ServiceException: Could not authenticate
 2017-10-31 13:52:09,028 INFO http-bio-443-exec-172 com.smartbear.ccollab.datamodel.manager.DataPackageWriter - Copying local file [/usr/local/ccollab_server/ccollab-server.vmoptions] to dump file [ccollab-server.vmoptions]
 2017-10-31 13:52:09,028 INFO http-bio-443-exec-172 com.smartbear.ccollab.datamodel.manager.DataPackageWriter - Writing files to system dump from: /usr/local/ccollab_server/tomcat/logs
 2017-10-31 13:52:09,028 INFO http-bio-443-exec-172 com.smartbear.ccollab.datamodel.manager.DataPackageWriter - Copying local file [/usr/local/ccollab_server/tomcat/logs/collab.log] to dump file [tomcat/logs/collab.log]
+a 
