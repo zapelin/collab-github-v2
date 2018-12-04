@@ -1,6 +1,6 @@
 1
 2 commit1 branch
-3
+3 commit3 branch
 4
 5
 6
