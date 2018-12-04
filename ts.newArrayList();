@@ -1,0 +1,231 @@
+[33mcommit fc96a19ffc2d1bc266de8d0e5aaaade27d83e7fe[m
+tree 35d63a11e073f54865616d072fca2d8216cc891e
+parent b197cb1dc2bd52aef0991253f1b03072c6180bbb
+author ploko <kpl@ciklum.com> 1541769499 +0200
+committer ploko <kpl@ciklum.com> 1541769584 +0200
+
+    Line 1
+
+[33mcommit b197cb1dc2bd52aef0991253f1b03072c6180bbb[m
+tree 13f0d2caefa50dbed88596c875a5970cfaf5497c
+parent 8cde8ecc631b8ef993a63c7e2b5a8a7ffbec9857
+author ploko <kpl@ciklum.com> 1541769523 +0200
+committer ploko <kpl@ciklum.com> 1541769584 +0200
+
+    Line 15
+
+[33mcommit 8cde8ecc631b8ef993a63c7e2b5a8a7ffbec9857[m
+tree a51827074f8a47bc767abf4c20b3a65d4cfa1daa
+parent f3da461e7808154bc50fd57258bf6be60c668c1c
+author ploko <kpl@ciklum.com> 1540808456 +0200
+committer ploko <kpl@ciklum.com> 1540808456 +0200
+
+    Remove file
+
+[33mcommit f3da461e7808154bc50fd57258bf6be60c668c1c[m
+tree c9f694e821a2fe40edf5fc83078cfc7063424d18
+parent 8fa09039dde71cb1677c1619428d63990ba6ac05
+author ploko <kpl@ciklum.com> 1540808437 +0200
+committer ploko <kpl@ciklum.com> 1540808437 +0200
+
+    2
+
+[33mcommit 8fa09039dde71cb1677c1619428d63990ba6ac05[m
+tree f24216c09e04a7d9d359822d062909e1ca718cf0
+parent c2a9b3210cc36595308e05eabbcb08113eb0f8fa
+author ploko <kpl@ciklum.com> 1540806910 +0200
+committer ploko <kpl@ciklum.com> 1540806910 +0200
+
+    2 reverted
+
+[33mcommit c2a9b3210cc36595308e05eabbcb08113eb0f8fa[m
+tree c9f694e821a2fe40edf5fc83078cfc7063424d18
+parent 6a0553a63d83855dd4b0dbac406408456b5bc240
+author ploko <kpl@ciklum.com> 1540797964 +0200
+committer ploko <kpl@ciklum.com> 1540797964 +0200
+
+    2
+
+[33mcommit 6a0553a63d83855dd4b0dbac406408456b5bc240[m
+tree f24216c09e04a7d9d359822d062909e1ca718cf0
+parent f6f4a26d965e71632c69ef8bbe06877dfe4a524b
+author ploko <kpl@ciklum.com> 1540797930 +0200
+committer ploko <kpl@ciklum.com> 1540797930 +0200
+
+    1
+
+[33mcommit f6f4a26d965e71632c69ef8bbe06877dfe4a524b[m
+tree c35c72e453e3678b78c82a33d11f107d9d5fbf36
+parent fe987c9f4c74ce53e6c0a19db70a983a96e5d1dd
+author ploko <kpl@ciklum.com> 1540797785 +0200
+committer ploko <kpl@ciklum.com> 1540797785 +0200
+
+    New file added
+
+[33mcommit fe987c9f4c74ce53e6c0a19db70a983a96e5d1dd[m
+tree a51827074f8a47bc767abf4c20b3a65d4cfa1daa
+parent 08f47f2009f8ca5c313bca5004c8fa44ad773124
+author ploko <kpl@ciklum.com> 1540365313 +0300
+committer ploko <kpl@ciklum.com> 1540365313 +0300
+
+    4
+
+[33mcommit 08f47f2009f8ca5c313bca5004c8fa44ad773124[m
+tree 8758fa5d565968d5b30ebab9f49e6e29803fe8d2
+parent 71483232d0770426ac7bb71a73b95074bb526d4b
+author ploko <kpl@ciklum.com> 1540365299 +0300
+committer ploko <kpl@ciklum.com> 1540365299 +0300
+
+    3
+
+[33mcommit 71483232d0770426ac7bb71a73b95074bb526d4b[m
+tree 3d043090e1df431e159898e95d883dc9ca18e376
+parent 982f305c87b53d397862c49ef3127e9cc949465e
+author ploko <kpl@ciklum.com> 1540365289 +0300
+committer ploko <kpl@ciklum.com> 1540365289 +0300
+
+    2
+
+[33mcommit 982f305c87b53d397862c49ef3127e9cc949465e[m
+tree e9e5315d626d3f12b09545b5def56a20ad2282d0
+parent d2da865bb636ed78079e561f6154e68b2f9397be
+author ploko <kpl@ciklum.com> 1540365278 +0300
+committer ploko <kpl@ciklum.com> 1540365278 +0300
+
+    1
+
+[33mcommit d2da865bb636ed78079e561f6154e68b2f9397be[m
+tree eb349f64cebda29987ec6398a07b14fa72c9ed35
+parent 2f0e8fbcbd1d35ac98a4bbed4b7ccf3d92f41b07
+author ploko <kpl@ciklum.com> 1540365257 +0300
+committer ploko <kpl@ciklum.com> 1540365257 +0300
+
+    Restore data
+
+[33mcommit 2f0e8fbcbd1d35ac98a4bbed4b7ccf3d92f41b07[m
+tree e2f7be731377c7858c72203351be344c736183f5
+parent 4bdb96a5d5853a24aba269cfad38d43e2f66f5f5
+parent f828b67da1adc7032e299e05859dcb96811e63fe
+author ploko <kpl@ciklum.com> 1537177712 +0300
+committer ploko <kpl@ciklum.com> 1537177712 +0300
+
+    Merge branch 'master' into 53
+    
+    # Conflicts:
+    #	1.txt.txt
+
+[33mcommit f828b67da1adc7032e299e05859dcb96811e63fe[m
+tree ec4b1db6cfc7aa57f1019b402b90bf4ebe89e444
+parent b7811dd58544d29b5dc1dd5c17f81b6e18cd05e4
+author ploko <kpl@ciklum.com> 1537177633 +0300
+committer GitHub <noreply@github.com> 1537177633 +0300
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsBcBAABCAAQBQJbn3ghCRBK7hj4Ov3rIwAAdHIIABPtl1MSdNzec3bexlAclT3i
+ sd5dakwuZVdVDOUNkkokrYyB3E1naWdmyGGOozKVEjMKFDF82GNfBdP4G4Hq63Uk
+ 5mNPIi3ZLY68J+bi51WCLoZ41twsSFteOHfI60nW7ecZFC3A8HaT52P2QhiZCJIr
+ +1rKqKzDqyjcMv8i6UCTeUIFaEKUEo7GGYQeyPVNmLgKTdt//DYyrsqBi1a7SlKy
+ mK7RyK/+mTswDHDVMeJ1KmGxSbWyqg0Q0/sHYTtt9TOaZFz35MxtxF8f8TtuRct5
+ lidLiXNPynDIBZHHiemnoaD4aGwo5GFTc9DOFqfdzDJpc78L4jOdIZXpAUKNb3o=
+ =yWUZ
+ -----END PGP SIGNATURE-----
+ 
+
+    Update 1.txt.txt
+
+[33mcommit 4bdb96a5d5853a24aba269cfad38d43e2f66f5f5[m
+tree 3a65749439edf3501b16e434d5f3bc9e0937dcf1
+parent fb46d1c9c8de7f5855b4ebb2c0698bda29223be1
+parent b7811dd58544d29b5dc1dd5c17f81b6e18cd05e4
+author ploko <kpl@ciklum.com> 1537175337 +0300
+committer ploko <kpl@ciklum.com> 1537175337 +0300
+
+    Merge branch 'master' into 54
+
+[33mcommit b7811dd58544d29b5dc1dd5c17f81b6e18cd05e4[m
+tree ef10b2d38b0339ae3b8813e4f7926fb9dc6996f1
+parent e530a461fe598877ad56158b3c8e8776d89b2fc6
+author ploko <kpl@ciklum.com> 1537175260 +0300
+committer GitHub <noreply@github.com> 1537175260 +0300
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsBcBAABCAAQBQJbn27cCRBK7hj4Ov3rIwAAdHIIAGsp8FOO4VvKeYo1J+ghEmH7
+ 84FksyJz13SLtWWVs50R9VV0AgipYzQhpLOXmGDix7CK0CuQHrxxtx1W6Cxwi7pY
+ G7YpNKlXelf3Q4V6D/rmapyXjQZmGiNDrHUznDhpfstrq8atQ4anEpARf5bagAcl
+ Xe846JpmaOLfOHKvyhGO6dkaAQqo3zBhTDxKXh2Zutc/Zn9vHdxUquKRhvS94rML
+ qMgHGM3tarw9hVdSNPs4vvjLTWcWtzpQ4pqJBKcUbjyJTeKNYFa3rrlFCaKpE/uI
+ eIY/cogL8YOF3K6eUqtURKCcTT5Af0OM3I4k3pahX2ZD6tc1DfZhbT2Z1Hmb7Bs=
+ =l7YU
+ -----END PGP SIGNATURE-----
+ 
+
+    Update 101010
+
+[33mcommit e530a461fe598877ad56158b3c8e8776d89b2fc6[m
+tree 31e6a8b06f3148f353db17e034258e127b842f14
+parent 42591fd2f2baed2c37d436b4fa8026a914451a0c
+author ploko <kpl@ciklum.com> 1537175224 +0300
+committer GitHub <noreply@github.com> 1537175224 +0300
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsBcBAABCAAQBQJbn264CRBK7hj4Ov3rIwAAdHIIAH81Y6EL723VDGXvYhT8dhhj
+ 0vEy0AdnjNpe6Dkef/uheVpsmZ2llu5OMEcuotDzq2Q+ylxGnAcPyxx+d7ZJ+cjr
+ 7FIyBpg2PgRFRiToq58QLEeik3qEgwLUFco7qw6aDL14ZsISfmpPOF628amTYPkY
+ yli1XjPlZ1jVRhDoj2N91wSNBDPwPo57zK8tOwNrl9KKbrsNK48OZBbKA72hbRx1
+ wFsoQ2873oJ0mJ+Wq5O183PMu3LuW+wYtZQpjhuqdP2JrU7GJhjp0p/x+lobu7ZQ
+ HZplKyp4LL5q72NlLelQDoJsAkQuaeqpU1dfO/gUjzAqn43TW832eEv1F+sRwtk=
+ =EhU9
+ -----END PGP SIGNATURE-----
+ 
+
+    Update 1.txt.txt
+
+[33mcommit fb46d1c9c8de7f5855b4ebb2c0698bda29223be1[m
+tree 8678d2a4d387c4384ac3228d73b8c7c016867eb9
+parent bd7aeafcc44bf9db91f435484548ae167fe02edb
+author ploko <kpl@ciklum.com> 1537175207 +0300
+committer GitHub <noreply@github.com> 1537175207 +0300
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsBcBAABCAAQBQJbn26nCRBK7hj4Ov3rIwAAdHIIAIYq9hb7SfBv0Wmx/XiNQt8q
+ Eqc/G4+rKgTEN7A7BvhVgSGHjQxwwWEVYOMJpwPdPxtnSEUvchmgp66JV03FVzsA
+ ZY/1Ax5HbjeB3uqZdHpUHCHkVNdxEpo0RZCTUsCkKTpb3HH/qQD4A7OD07+z+tdz
+ /tk9yJje4aJ9sciD7jXJi0zptOZ+GJsDN2kmSZFTN7aFsTpPeFQCtG3YfEpQIIBI
+ AQQtOWeRU9/Dzh7TgFfpPF4LGFUZhzmzPM7N1eIkvdfigGyGBu04ZZPXi9/sMVCf
+ hQILsUaNTmF3zKSfWBUfK5irU9OIqS9dn9aypQaPzsVdHRys3GhvbjH7akerVJI=
+ =Pz03
+ -----END PGP SIGNATURE-----
+ 
+
+    Update 1.txt.txt
+
+[33mcommit bd7aeafcc44bf9db91f435484548ae167fe02edb[m
+tree c88d3287c4bbb80216b2f2a603e0693e2be4569b
+parent 01ea3f5ed1c4ebc38c3ab685925f0bbc3ab8d11e
+parent 42591fd2f2baed2c37d436b4fa8026a914451a0c
+author ploko <kpl@ciklum.com> 1537175017 +0300
+committer ploko <kpl@ciklum.com> 1537175017 +0300
+
+    Merge branch 'master' into 54
+
+[33mcommit 42591fd2f2baed2c37d436b4fa8026a914451a0c[m
+tree 5ed8427c7ae073e0f85505573fdfa297f01b4b3f
+parent 45acb4f8288b7c3ab38690c3317c93debfe9265e
+author ploko <kpl@ciklum.com> 1537174989 +0300
+committer GitHub <noreply@github.com> 1537174989 +0300
+gpgsig -----BEGIN PGP SIGNATURE-----
+ 
+ wsBcBAABCAAQBQJbn23NCRBK7hj4Ov3rIwAAdHIIACHYscBZiseyuBd4v01EMP2C
+ yjQihX+fNTc0DicR4DH+6jMqez3w6bMscSZ0L9c80sj5piZ9A2gpTM0J/CNHBdr0
+ 6UpOnkrngjTBeJrngFSbvlj+J0HOCMW47QVQEKCUNAFB5buQa2AJhS/f+pSLYim6
+ hAEAOLzftHFYa87u/5g1JIVkvPH96XmlBFGvsMunEeA8DwYylKs5IxDFyp2nwXHH
+ r9eL8IIP5dbx1lr6GU17GnNfam/TPE3Sd7z5Vf0j9GlcrMPmO21pO17jHI5HB3q5
+ 6U/l+FnVsyIn/WtJRSeZ8eRYCQE6kjwEiulFcs7dGAI4ZHy0V9SWiuysp+ZSoBg=
+ =aSt4
+ -----END PGP SIGNATURE-----
+ 
+
+    line 16
+
+[33mcommit 01ea3f5ed1c4ebc38c3ab685925f0bbc3ab8d11e[m
+tree 848
