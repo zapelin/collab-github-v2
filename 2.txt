@@ -2,7 +2,7 @@
 2 commit1 branch
 3
 4 commit2 branch
-5
+5 commit3 branch
 6
 7 commit1 upstream
 8 commit2 upstream
