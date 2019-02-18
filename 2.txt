@@ -1,7 +1,7 @@
 1
 2 user1 feature1 commit1
 3
-4
+4 user1 feature1 commit2
 5
 6 user1 feature1 commit3
 7
