@@ -1,0 +1,1967 @@
+квіт 19, 2016 11:51:32 AM com.smartbear.ccollab.CLI enableDebug
+FINE: client version: Collaborator version 9.4.9401.001
+квіт 19, 2016 11:51:32 AM com.smartbear.ccollab.CLI enableDebug
+FINE: Parsing arguments: [--debug, addchanges, new, .]
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logVmMemory
+FINE: VM Max Memory: 3797417984aasd
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logVmMemory
+FINE: VM Current Memory: 255852544
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logSystemProperties
+FINE: Logging System Properties
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.runtime.name:  Java(TM) SE Runtime Environment
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   com.microsoft.tfs.jni.native.base-directory:  C:\Program Files\Collaborator Client 9.4.9401\/ui/plugins/com.smartbear.collaborator_9.4.9401.001/libs/native
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   exe4j.moduleName:  C:\Program Files\Collaborator Client 9.4.9401\ccollab.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   exe4j.semaphoreName:  Local\c:_program_files_collaborator_client_9.4.9401_ccollab.exe0
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.boot.library.path:  c:\program files\collaborator client 9.4.9401\jre\bin
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vm.version:  24.80-b11
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.country.format:  UA
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vm.vendor:  Oracle Corporation
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vendor.url:  http://java.oracle.com/
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   exe4j.consoleCodepage:  cp850
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   path.separator:  ;
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.util.logging.config.file:  C:\Program Files\Collaborator Client 9.4.9401\/ccollab.logging.properties
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vm.name:  Java HotSpot(TM) 64-Bit Server VM
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   file.encoding.pkg:  sun.io
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.country:  GB
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.script:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.os.patch.level:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   install4j.exeDir:  C:\Program Files\Collaborator Client 9.4.9401\
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vm.specification.name:  Java Virtual Machine Specification
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.dir:  C:\Users\guar\Documents\smartbear\collab-github-v2
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.runtime.version:  1.7.0_80-b15
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.awt.graphicsenv:  sun.awt.Win32GraphicsEnvironment
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.endorsed.dirs:  c:\program files\collaborator client 9.4.9401\jre\lib\endorsed
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   os.arch:  amd64
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.io.tmpdir:  C:\Users\guar\AppData\Local\Temp\
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   line.separator:  
+
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vm.specification.vendor:  Oracle Corporation
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.variant:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   exe4j.tempDir:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   os.name:  Windows 8
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.jnu.encoding:  Cp1252
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.library.path:  C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-ant-1.9.6\bin;C:\Users\guar\Documents\smartbear\collab\tomcat\bin;C:\Program Files\Borland\Hub 15\pgsql\bin;C:\SCMs\Borland\StarTeam SDK 15.0\lib;C:\SCMs\Borland\StarTeam SDK 15.0\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP\;C:\cygwin64\bin;C:\Program Files\Collaborator Client;C:\Program Files\Collaborator Client 8.5;C:\Program Files\Collaborator Client 8.5.8501;C:\Program Files\Collaborator Client 9.4.9401;C:\Program Files\Collaborator Client 9.4.9401_master;C:\Program Files\Collaborator Client 9.4.9401_master_2;C:\Program Files\Collaborator Client 9.2.9200;c:\program files\collaborator client 9.4.9401\jre\bin
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   install4j.launcherId:  2
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.specification.name:  Java Platform API Specification
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.class.version:  51.0
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.management.compiler:  HotSpot 64-Bit Tiered Compilers
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   exe4j.isInstall4j:  true
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   os.version:  6.2
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   install4j.swt:  false
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.home:  C:\Users\guar
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.timezone:  Europe/Helsinki
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.awt.printerjob:  sun.awt.windows.WPrinterJob
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   file.encoding:  Cp1252
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.specification.version:  1.7
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.class.path:  C:\Program Files\Collaborator Client 9.4.9401\.install4j\i4jruntime.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\asm-all-3.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\com.microsoft.tfs.sdk-11.0.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-beanutils-core.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-codec-1.3.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-httpclient.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-io.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-lang.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\cxf-2.3.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-activation_1.1_spec-1.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-annotation_1.0_spec-1.1.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-javamail_1.4_spec-1.7.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-jaxws_2.2_spec-1.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-stax-api_1.0_spec-1.0.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-ws-metadata_2.0_spec-1.1.3.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\guava-11.0.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\gwt-user.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jackson-annotations-2.2.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jackson-core-2.2.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jackson-databind-2.2.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jackson-module-mrbean-2.2.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jaxb-api-2.2.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jaxb-impl-2.2.1.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jsr173_1.0_api.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jsr173_1.0_ri.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\mksapi.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\neethi-2.0.4.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\saaj-api-1.3.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\saaj-impl-1.3.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-ccollab-client-common.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-ccollab-datamodel.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-ccollab-soap.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-code-analysis.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-common.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-scm.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\stax2-api-3.0.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\woodstox-core-asl-4.0.8.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\woodstox-msv-core-2.0.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\woodstox-msv-rng-datatype-1.0.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\woodstox-msv-xsdlib-2.0.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\ws-commons-util-1.0.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\xmlrpc-client.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\xmlrpc-common.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\XmlSchema-1.4.7.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator.libdependencies_9.4.9401.001\commons-logging.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator.libdependencies_9.4.9401.001\wsdl4j-1.6.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\activation.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\commons-cli-2.0-SNAPSHOT-553540.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\gwt-user.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\smartbear-ccollab-cmdline.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\smartbear-code-analysis.jar;
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.name:  guar
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vm.specification.version:  1.7
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.java.command:  C:\Program Files\Collaborator Client 9.4.9401\ccollab.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.home:  c:\program files\collaborator client 9.4.9401\jre
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.arch.data.model:  64
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   exe4j.launchName:  ccollab
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.language:  en
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.specification.vendor:  Oracle Corporation
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user.language.format:  uk
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   awt.toolkit:  sun.awt.windows.WToolkit
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vm.info:  mixed mode
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   exe4j.unextractedPosition:  0
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.version:  1.7.0_80
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.ext.dirs:  c:\program files\collaborator client 9.4.9401\jre\lib\ext;C:\windows\Sun\Java\lib\ext
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.boot.class.path:  c:\program files\collaborator client 9.4.9401\jre\lib\resources.jar;c:\program files\collaborator client 9.4.9401\jre\lib\rt.jar;c:\program files\collaborator client 9.4.9401\jre\lib\sunrsasign.jar;c:\program files\collaborator client 9.4.9401\jre\lib\jsse.jar;c:\program files\collaborator client 9.4.9401\jre\lib\jce.jar;c:\program files\collaborator client 9.4.9401\jre\lib\charsets.jar;c:\program files\collaborator client 9.4.9401\jre\lib\jfr.jar;c:\program files\collaborator client 9.4.9401\jre\classes
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   install4j.appDir:  C:\Program Files\Collaborator Client 9.4.9401\
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vendor:  Oracle Corporation
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   file.separator:  \
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   java.vendor.url.bug:  http://bugreport.sun.com/bugreport/
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.io.unicode.encoding:  UnicodeLittle
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.cpu.endian:  little
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   collab.install.dir:  C:\Program Files\Collaborator Client 9.4.9401\
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.desktop:  windows
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   sun.cpu.isalist:  amd64
+квіт 19, 2016 11:51:32 AM com.smartbear.util.EnvironmentUtils logEnvironment
+FINE: Logging environment variables.
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   USERPROFILE:  C:\Users\guar
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   JAVA_HOME:  C:\Program Files\Java\jdk1.7.0_79
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   VBOX_MSI_INSTALL_PATH:  C:\Program Files\Oracle\VirtualBox\
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   =ExitCode:  FFFFFFFF
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   SystemDrive:  C:
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   JPDA_TRANSPORT:  dt_socket
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   Path:  C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Program Files\Git\cmd;C:\Program Files\apache-ant-1.9.6\bin;C:\Users\guar\Documents\smartbear\collab\tomcat\bin;C:\Program Files\Borland\Hub 15\pgsql\bin;C:\SCMs\Borland\StarTeam SDK 15.0\lib;C:\SCMs\Borland\StarTeam SDK 15.0\bin;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\;C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine extensions for PHP\;C:\cygwin64\bin;C:\Program Files\Collaborator Client;C:\Program Files\Collaborator Client 8.5;C:\Program Files\Collaborator Client 8.5.8501;C:\Program Files\Collaborator Client 9.4.9401;C:\Program Files\Collaborator Client 9.4.9401_master;C:\Program Files\Collaborator Client 9.4.9401_master_2;C:\Program Files\Collaborator Client 9.2.9200;c:\program files\collaborator client 9.4.9401\jre\bin
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   PROCESSOR_REVISION:  3c03
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   USERDOMAIN:  KYIV
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   ALLUSERSPROFILE:  C:\ProgramData
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   SESSIONNAME:  Console
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   TMP:  C:\Users\guar\AppData\Local\Temp
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   CommonProgramFiles:  C:\Program Files\Common Files
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   =:::  ::\
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   LOGONSERVER:  \\SRV-DC-KYIV
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   PROMPT:  $P$G
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   PROCESSOR_LEVEL:  6
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   USERDOMAIN_ROAMINGPROFILE:  KYIV
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   LOCALAPPDATA:  C:\Users\guar\AppData\Local
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   COMPUTERNAME:  NB-GUAR
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   SystemRoot:  C:\windows
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   USERNAME:  guar
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   JPDA_ADDRESS:  9999
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   JPDA_SUSPEND:  y
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   APPDATA:  C:\Users\guar\AppData\Roaming
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   ProgramData:  C:\ProgramData
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   USERDNSDOMAIN:  KYIV.CIKLUM.NET
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   PATHEXT:  .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   ProgramFiles(x86):  C:\Program Files (x86)
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   TEMP:  C:\Users\guar\AppData\Local\Temp
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   ProgramFiles:  C:\Program Files
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   HOMEDRIVE:  C:
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   =C::  C:\Users\guar\Documents\smartbear\collab-github-v2
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   ESET_OPTIONS:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   ProgramW6432:  C:\Program Files
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   PROCESSOR_IDENTIFIER:  Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   PROCESSOR_ARCHITECTURE:  AMD64
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   FP_NO_HOST_CHECK:  NO
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   OS:  Windows_NT
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   HOMEPATH:  \Users\guar
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   CommonProgramW6432:  C:\Program Files\Common Files
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   ANT_HOME:  C:\Program Files\apache-ant-1.9.6
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   CATALINA_HOME:  C:\Users\guar\Documents\smartbear\collab\tomcat
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   windir:  C:\windows
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   NUMBER_OF_PROCESSORS:  8
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   PUBLIC:  C:\Users\Public
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   PSModulePath:  C:\windows\system32\WindowsPowerShell\v1.0\Modules\
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   CommonProgramFiles(x86):  C:\Program Files (x86)\Common Files
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   ComSpec:  C:\windows\system32\cmd.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils loadConfigFiles
+FINE: loading config files
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Program Files\Collaborator Client 9.4.9401\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Program Files\Collaborator Client 9.4.9401\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Program Files\Collaborator Client 9.4.9401\.smartbear\com.smartbear.ccollab.client.txt can not be read
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils loadConfigFiles
+FINE: Install preferences:
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\Documents\smartbear\collab-github-v2\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\Documents\smartbear\collab-github-v2\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\Documents\smartbear\collab-github-v2\.smartbear\com.smartbear.ccollab.client.txt can not be read
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils loadConfigFiles
+FINE: User dir preferences:
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils loadConfigFiles
+FINE: Profile preferences:
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   loginticketid:  918346bb57d5ec443799dd2d004cea89
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   externaldiffmultiplefilescommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   url:  http://localhost:8080
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   externaldiffsinglefilecommandargs:  --caption="Diff ${after.version.fileName} for Review #${review.id}: ${review.title}"
+--title1="${before.version.fileName} ${before.formattedScmVersion}"
+--title2="${after.version.fileName} ${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   serverpasskeyutf8:  490b2ff693487e44032ee5a8df9ea753
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   user:  user1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   traynotifiershutdownport:  -1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   lastreview:  255
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   clientguid:  2d5678366b7bd8986c5a94eec5d83ca8
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   serverproxyhost:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   externaldiffmultiplefilescommandargs:  --caption="Diff ${after.formattedScmVersion} against ${before.formattedScmVersion} for Review #${review.id}: ${review.title}"
+--title1="${before.formattedScmVersion}"
+--title2="${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   password:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   product:  enterprise
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   guishutdownport:  -1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   externaldiffsinglefilecommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
+FINE:   serverproxyport:  
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Program Files\Collaborator Client 9.4.9401\.smartbear\com.smartbear.scm.txt
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Program Files\Collaborator Client 9.4.9401\.smartbear\com.smartbear.scm.txt exists
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Program Files\Collaborator Client 9.4.9401\.smartbear\com.smartbear.scm.txt can not be read
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils loadConfigFiles
+FINE: Legacy SCM install preferences:
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\Documents\smartbear\collab-github-v2\.smartbear\com.smartbear.scm.txt
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\Documents\smartbear\collab-github-v2\.smartbear\com.smartbear.scm.txt exists
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\Documents\smartbear\collab-github-v2\.smartbear\com.smartbear.scm.txt can not be read
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils loadConfigFiles
+FINE: Legacy SCM User Dir preferences:
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.scm.txt
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.scm.txt exists
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.scm.txt can not be read
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils loadConfigFiles
+FINE: Legacy SCM Profile preferences:
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ConfigUtils loadConfigFiles
+FINE: Aggregated preferences
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommandargs:  --caption="Diff ${after.formattedScmVersion} against ${before.formattedScmVersion} for Review #${review.id}: ${review.title}"
+--title1="${before.formattedScmVersion}"
+--title2="${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommandargs:  --caption="Diff ${after.version.fileName} for Review #${review.id}: ${review.title}"
+--title1="${before.version.fileName} ${before.formattedScmVersion}"
+--title2="${after.version.fileName} ${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverpasskeyutf8:  490b2ff693487e44032ee5a8df9ea753
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   password:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   url:  http://localhost:8080
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   product:  enterprise
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   clientguid:  2d5678366b7bd8986c5a94eec5d83ca8
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   guishutdownport:  -1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   traynotifiershutdownport:  -1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   loginticketid:  918346bb57d5ec443799dd2d004cea89
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverproxyport:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   lastreview:  255
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverproxyhost:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   user:  user1
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: Loading bean GlobalOptions: {
+   debug = false
+   editor = (Empty)
+   editor-prompt = false
+   nobrowser = false
+   no-browser = false
+   non-interactive = false
+   password = (Empty)
+   pause-on-error = false
+   profile = (Empty)
+   quiet = false
+   server-login = guar
+   server-proxy-host = (Empty)
+   server-proxy-port = (Empty)
+   server-url = (Empty)
+   url = (Empty)
+   use-json-api = true
+   use-legacy-api = false
+   user = guar
+   user-provided-auth = false
+   verbose = false
+
+} from map
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommandargs:  --caption="Diff ${after.formattedScmVersion} against ${before.formattedScmVersion} for Review #${review.id}: ${review.title}"
+--title1="${before.formattedScmVersion}"
+--title2="${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommandargs:  --caption="Diff ${after.version.fileName} for Review #${review.id}: ${review.title}"
+--title1="${before.version.fileName} ${before.formattedScmVersion}"
+--title2="${after.version.fileName} ${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverpasskeyutf8:  490b2ff693487e44032ee5a8df9ea753
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   password:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   url:  http://localhost:8080
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   product:  enterprise
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   clientguid:  2d5678366b7bd8986c5a94eec5d83ca8
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   guishutdownport:  -1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   traynotifiershutdownport:  -1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   loginticketid:  918346bb57d5ec443799dd2d004cea89
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverproxyport:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   lastreview:  255
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverproxyhost:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   user:  user1
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommandargs:  --caption="Diff ${after.formattedScmVersion} against ${before.formattedScmVersion} for Review #${review.id}: ${review.title}"
+--title1="${before.formattedScmVersion}"
+--title2="${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommandargs:  --caption="Diff ${after.version.fileName} for Review #${review.id}: ${review.title}"
+--title1="${before.version.fileName} ${before.formattedScmVersion}"
+--title2="${after.version.fileName} ${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverpasskeyutf8:  490b2ff693487e44032ee5a8df9ea753
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   password:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   url:  http://localhost:8080
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   product:  enterprise
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   clientguid:  2d5678366b7bd8986c5a94eec5d83ca8
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   guishutdownport:  -1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   traynotifiershutdownport:  -1
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   loginticketid:  918346bb57d5ec443799dd2d004cea89
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverproxyport:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   lastreview:  255
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   serverproxyhost:  
+квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logMap
+FINE:   user:  user1
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains normalized property serverproxyport
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: raw value of property in map is 
+квіт 19, 2016 11:51:32 AM org.apache.commons.beanutils.ConvertUtilsBean convert
+FINE: Convert string '' to class 'java.lang.String'
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: 
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains secure normalized utf-8 property serverpasskeyutf8
+квіт 19, 2016 11:51:32 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: (not logging secure value)
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils setLogLevel
+FINE: Setting log level of logger 'org.apache.commons.beanutils.ConvertUtils' to CONFIG
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils setLogLevel
+FINE: Setting log level of logger 'org.apache.commons.beanutils.ConvertUtils' to null
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: (not logging secure value)
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains normalized property password
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: raw value of property in map is 
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils setLogLevel
+FINE: Setting log level of logger 'org.apache.commons.beanutils.ConvertUtils' to CONFIG
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils setLogLevel
+FINE: Setting log level of logger 'org.apache.commons.beanutils.ConvertUtils' to null
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: (not logging secure value)
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains normalized property serverproxyhost
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: raw value of property in map is 
+квіт 19, 2016 11:51:33 AM org.apache.commons.beanutils.ConvertUtilsBean convert
+FINE: Convert string '' to class 'java.lang.String'
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: 
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains normalized property url
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: raw value of property in map is http://localhost:8080
+квіт 19, 2016 11:51:33 AM org.apache.commons.beanutils.ConvertUtilsBean convert
+FINE: Convert string 'http://localhost:8080' to class 'java.net.URL'
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: http://localhost:8080
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains normalized property user
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: raw value of property in map is user1
+квіт 19, 2016 11:51:33 AM org.apache.commons.beanutils.ConvertUtilsBean convert
+FINE: Convert string 'user1' to class 'java.lang.String'
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: user1
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: map remaining: {externaldiffmultiplefilescommandargs=--caption="Diff ${after.formattedScmVersion} against ${before.formattedScmVersion} for Review #${review.id}: ${review.title}"
+--title1="${before.formattedScmVersion}"
+--title2="${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}", externaldiffsinglefilecommandargs=--caption="Diff ${after.version.fileName} for Review #${review.id}: ${review.title}"
+--title1="${before.version.fileName} ${before.formattedScmVersion}"
+--title2="${after.version.fileName} ${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}", externaldiffsinglefilecommand=C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe, product=enterprise, clientguid=2d5678366b7bd8986c5a94eec5d83ca8, externaldiffmultiplefilescommand=C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe, guishutdownport=-1, traynotifiershutdownport=-1, loginticketid=918346bb57d5ec443799dd2d004cea89, lastreview=255}
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: Loading bean ScmOptions: {
+   current-directory = (Empty)
+   global-provider = (Empty)
+   scm = (Empty)
+
+   (AccuRev only)
+      accurev-depot = (Empty)
+      accurev-exe = accurev
+      accurev-anc-algorithm = (Empty)
+
+   (ClearCase only)
+      ccrc-server-url = (Empty)
+      ccrc-user = (Empty)
+      ccrc-passwd = (Empty)
+      clearcase-exe = (Empty)
+      clearcase-update-snapshot = false
+      clearcase-view-directory = (Empty)
+
+   (CVS only)
+      cvs-exe = cvs
+      cvsroot = (Empty)
+
+   (Git only)
+      git-exe = (Empty)
+      git-repository = (Empty)
+      git-skip-index = false
+
+   (Mercurial only)
+      mercurial-exe = hg
+
+   (Perforce only)
+      p4 = (Empty)
+      p4port = (Empty)
+      p4user = (Empty)
+      p4passwd = (Empty)
+      p4client = (Empty)
+      p4-ignore-integration-history = false
+      p4-protects-script = (Empty)
+      p4charset = (Empty)
+      p4-require-empty-default-changelist = false
+      p4-change-content-trigger = false
+      p4-specify-command-charset = true
+      p4-test-p4java = false
+
+   (PTC Integrity only)
+      mks-host = (Empty)
+      mks-port = (Empty)
+      mks-user = (Empty)
+      mks-passwd = (Empty)
+      mks-expand-keywords = true
+
+   (Rational Synergy only)
+      ccm-exe = ccm
+      ccm-user = (Empty)
+      ccm-passwd = (Empty)
+      ccm-engine-host = (Empty)
+      ccm-database-path = (Empty)
+      ccm-local-database-path = (Empty)
+      ccm-remote-client = false
+      ccm-server-url = (Empty)
+
+   (Rational Team Concert only)
+      rtc-repository-uri = (Empty)
+      rtc-username = (Empty)
+      rtc-password = (Empty)
+      add-assignments = (Empty)
+      remove-assignments = (Empty)
+      approve-assignments = (Empty)
+      rtc-impl = (Empty)
+
+   (Subversion only)
+      svn-exe = svn
+      svn-look-exe = (Empty)
+      svn-repo-url = (Empty)
+      svn-user = (Empty)
+      svn-passwd = (Empty)
+      svn-require-client-certificate-password = false
+      svn-auto-add = false
+      svn-recurse-externals = false
+      repo = (Empty)
+      svn-repo-path = (Empty)
+      svn-test-javahl = false
+
+   (Team Foundation Server only)
+      tfs-collection = (Empty)
+      tfs-server = (Empty)
+      tfs-exe = (Empty)
+      tfs-user = (Empty)
+      tfs-passwd = (Empty)
+
+} from map
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommandargs:  --caption="Diff ${after.formattedScmVersion} against ${before.formattedScmVersion} for Review #${review.id}: ${review.title}"
+--title1="${before.formattedScmVersion}"
+--title2="${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommandargs:  --caption="Diff ${after.version.fileName} for Review #${review.id}: ${review.title}"
+--title1="${before.version.fileName} ${before.formattedScmVersion}"
+--title2="${after.version.fileName} ${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   product:  enterprise
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   clientguid:  2d5678366b7bd8986c5a94eec5d83ca8
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   guishutdownport:  -1
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   traynotifiershutdownport:  -1
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   loginticketid:  918346bb57d5ec443799dd2d004cea89
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   lastreview:  255
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommandargs:  --caption="Diff ${after.formattedScmVersion} against ${before.formattedScmVersion} for Review #${review.id}: ${review.title}"
+--title1="${before.formattedScmVersion}"
+--title2="${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommandargs:  --caption="Diff ${after.version.fileName} for Review #${review.id}: ${review.title}"
+--title1="${before.version.fileName} ${before.formattedScmVersion}"
+--title2="${after.version.fileName} ${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}"
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffsinglefilecommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   product:  enterprise
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   clientguid:  2d5678366b7bd8986c5a94eec5d83ca8
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   externaldiffmultiplefilescommand:  C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   guishutdownport:  -1
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   traynotifiershutdownport:  -1
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   loginticketid:  918346bb57d5ec443799dd2d004cea89
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   lastreview:  255
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: map remaining: {product=enterprise, clientguid=2d5678366b7bd8986c5a94eec5d83ca8, externaldiffmultiplefilescommandargs=--caption="Diff ${after.formattedScmVersion} against ${before.formattedScmVersion} for Review #${review.id}: ${review.title}"
+--title1="${before.formattedScmVersion}"
+--title2="${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}", externaldiffmultiplefilescommand=C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe, externaldiffsinglefilecommandargs=--caption="Diff ${after.version.fileName} for Review #${review.id}: ${review.title}"
+--title1="${before.version.fileName} ${before.formattedScmVersion}"
+--title2="${after.version.fileName} ${after.formattedScmVersion}"
+"${before.local.path}"
+"${after.local.path}", guishutdownport=-1, traynotifiershutdownport=-1, loginticketid=918346bb57d5ec443799dd2d004cea89, lastreview=255, externaldiffsinglefilecommand=C:\Program Files\Collaborator Client 9.4.9401_master_2\DiffMerge_3_0_2\DiffMerge.exe}
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI parseGlobalOptionsAndCommand
+FINE: Loaded global options from command-line
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   debug:  true
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   command-option:  [new, .]
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: Loading bean GlobalOptions: {
+   debug = false
+   editor = (Empty)
+   editor-prompt = false
+   nobrowser = false
+   no-browser = false
+   non-interactive = false
+   password = (Empty)
+   pause-on-error = false
+   profile = (Empty)
+   quiet = false
+   server-login = user1
+   server-proxy-host = (Empty)
+   server-proxy-port = (Empty)
+   server-url = http://localhost:8080
+   url = http://localhost:8080
+   use-json-api = true
+   use-legacy-api = false
+   user = user1
+   user-provided-auth = false
+   verbose = false
+
+} from map
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   debug:  true
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   command-option:  [new, .]
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   debug:  true
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   command-option:  [new, .]
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains normalized property debug
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: raw value of property in map is true
+квіт 19, 2016 11:51:33 AM org.apache.commons.beanutils.ConvertUtilsBean convert
+FINE: Convert string 'true' to class 'java.lang.Boolean'
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: true
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: map remaining: {command-option=[new, .]}
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: Loading bean ScmOptions: {
+   current-directory = (Empty)
+   global-provider = (Empty)
+   scm = (Empty)
+
+   (AccuRev only)
+      accurev-depot = (Empty)
+      accurev-exe = accurev
+      accurev-anc-algorithm = (Empty)
+
+   (ClearCase only)
+      ccrc-server-url = (Empty)
+      ccrc-user = (Empty)
+      ccrc-passwd = (Empty)
+      clearcase-exe = (Empty)
+      clearcase-update-snapshot = false
+      clearcase-view-directory = (Empty)
+
+   (CVS only)
+      cvs-exe = cvs
+      cvsroot = (Empty)
+
+   (Git only)
+      git-exe = (Empty)
+      git-repository = (Empty)
+      git-skip-index = false
+
+   (Mercurial only)
+      mercurial-exe = hg
+
+   (Perforce only)
+      p4 = (Empty)
+      p4port = (Empty)
+      p4user = (Empty)
+      p4passwd = (Empty)
+      p4client = (Empty)
+      p4-ignore-integration-history = false
+      p4-protects-script = (Empty)
+      p4charset = (Empty)
+      p4-require-empty-default-changelist = false
+      p4-change-content-trigger = false
+      p4-specify-command-charset = true
+      p4-test-p4java = false
+
+   (PTC Integrity only)
+      mks-host = (Empty)
+      mks-port = (Empty)
+      mks-user = (Empty)
+      mks-passwd = (Empty)
+      mks-expand-keywords = true
+
+   (Rational Synergy only)
+      ccm-exe = ccm
+      ccm-user = (Empty)
+      ccm-passwd = (Empty)
+      ccm-engine-host = (Empty)
+      ccm-database-path = (Empty)
+      ccm-local-database-path = (Empty)
+      ccm-remote-client = false
+      ccm-server-url = (Empty)
+
+   (Rational Team Concert only)
+      rtc-repository-uri = (Empty)
+      rtc-username = (Empty)
+      rtc-password = (Empty)
+      add-assignments = (Empty)
+      remove-assignments = (Empty)
+      approve-assignments = (Empty)
+      rtc-impl = (Empty)
+
+   (Subversion only)
+      svn-exe = svn
+      svn-look-exe = (Empty)
+      svn-repo-url = (Empty)
+      svn-user = (Empty)
+      svn-passwd = (Empty)
+      svn-require-client-certificate-password = false
+      svn-auto-add = false
+      svn-recurse-externals = false
+      repo = (Empty)
+      svn-repo-path = (Empty)
+      svn-test-javahl = false
+
+   (Team Foundation Server only)
+      tfs-collection = (Empty)
+      tfs-server = (Empty)
+      tfs-exe = (Empty)
+      tfs-user = (Empty)
+      tfs-passwd = (Empty)
+
+} from map
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   command-option:  [new, .]
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   command-option:  [new, .]
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: map remaining: {command-option=[new, .]}
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI parseGlobalOptionsAndCommand
+FINE: Found command ccollab addchanges
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI parseGlobalOptionsAndCommand
+FINE: resolved full command: ccollab addchanges
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI parseGlobalOptionsAndCommand
+FINE: command options: [new, .]
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI doMain
+FINE: End of cmdline parsing pass #1 - resolved command: ccollab addchanges
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI doMain
+FINE: resolved global-options: GlobalOptions: {
+   debug = true
+   editor = (Empty)
+   editor-prompt = false
+   nobrowser = false
+   no-browser = false
+   non-interactive = false
+   password = (Empty)
+   pause-on-error = false
+   profile = (Empty)
+   quiet = false
+   server-login = user1
+   server-proxy-host = (Empty)
+   server-proxy-port = (Empty)
+   server-url = http://localhost:8080
+   url = http://localhost:8080
+   use-json-api = true
+   use-legacy-api = false
+   user = user1
+   user-provided-auth = false
+   verbose = true
+
+}
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI doMain
+FINE: resolved scm-options: ScmOptions: {
+   current-directory = (Empty)
+   global-provider = (Empty)
+   scm = (Empty)
+
+   (AccuRev only)
+      accurev-depot = (Empty)
+      accurev-exe = accurev
+      accurev-anc-algorithm = (Empty)
+
+   (ClearCase only)
+      ccrc-server-url = (Empty)
+      ccrc-user = (Empty)
+      ccrc-passwd = (Empty)
+      clearcase-exe = (Empty)
+      clearcase-update-snapshot = false
+      clearcase-view-directory = (Empty)
+
+   (CVS only)
+      cvs-exe = cvs
+      cvsroot = (Empty)
+
+   (Git only)
+      git-exe = (Empty)
+      git-repository = (Empty)
+      git-skip-index = false
+
+   (Mercurial only)
+      mercurial-exe = hg
+
+   (Perforce only)
+      p4 = (Empty)
+      p4port = (Empty)
+      p4user = (Empty)
+      p4passwd = (Empty)
+      p4client = (Empty)
+      p4-ignore-integration-history = false
+      p4-protects-script = (Empty)
+      p4charset = (Empty)
+      p4-require-empty-default-changelist = false
+      p4-change-content-trigger = false
+      p4-specify-command-charset = true
+      p4-test-p4java = false
+
+   (PTC Integrity only)
+      mks-host = (Empty)
+      mks-port = (Empty)
+      mks-user = (Empty)
+      mks-passwd = (Empty)
+      mks-expand-keywords = true
+
+   (Rational Synergy only)
+      ccm-exe = ccm
+      ccm-user = (Empty)
+      ccm-passwd = (Empty)
+      ccm-engine-host = (Empty)
+      ccm-database-path = (Empty)
+      ccm-local-database-path = (Empty)
+      ccm-remote-client = false
+      ccm-server-url = (Empty)
+
+   (Rational Team Concert only)
+      rtc-repository-uri = (Empty)
+      rtc-username = (Empty)
+      rtc-password = (Empty)
+      add-assignments = (Empty)
+      remove-assignments = (Empty)
+      approve-assignments = (Empty)
+      rtc-impl = (Empty)
+
+   (Subversion only)
+      svn-exe = svn
+      svn-look-exe = (Empty)
+      svn-repo-url = (Empty)
+      svn-user = (Empty)
+      svn-passwd = (Empty)
+      svn-require-client-certificate-password = false
+      svn-auto-add = false
+      svn-recurse-externals = false
+      repo = (Empty)
+      svn-repo-path = (Empty)
+      svn-test-javahl = false
+
+   (Team Foundation Server only)
+      tfs-collection = (Empty)
+      tfs-server = (Empty)
+      tfs-exe = (Empty)
+      tfs-user = (Empty)
+      tfs-passwd = (Empty)
+
+}
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI parseCommandOptions
+FINE: created command object: com.smartbear.ccollab.client.commands.CommandAddChanges@53105e7a
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI parseCommandOptions
+FINE: parsed command-options
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   review:  new
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   file-spec:  [.]
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: Loading bean com.smartbear.ccollab.client.commands.CommandAddChanges@53105e7a from map
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   review:  new
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   file-spec:  [.]
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   review:  new
+квіт 19, 2016 11:51:33 AM com.smartbear.util.LoggingUtils logMap
+FINE:   file-spec:  [.]
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains normalized property review
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: raw value of property in map is new
+квіт 19, 2016 11:51:33 AM org.apache.commons.beanutils.ConvertUtilsBean convert
+FINE: Convert string 'new' to class 'java.lang.String'
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: new
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: normalized map contains normalized property filespec
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: raw value of property in map is [.]
+квіт 19, 2016 11:51:33 AM org.apache.commons.beanutils.ConvertUtilsBean convert
+FINE: Convert String[1] to class 'com.smartbear.ccollab.client.commands.argrefs.ILocalCheckoutsRef[]'
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: converted raw value in to typed value: [Lcom.smartbear.ccollab.client.commands.argrefs.ILocalCheckoutsRef;@1d26b9db
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils set
+FINE: loaded typed value in to bean
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ValidateBeanUtils loadFromMap
+FINE: map remaining: {}
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI doMain
+FINE: End of cmdline parsing pass #2 - created and initialized command: com.smartbear.ccollab.client.commands.CommandAddChanges@53105e7a
+квіт 19, 2016 11:51:33 AM com.smartbear.progress.CommandLineProgressMonitor setTaskName
+FINE: Connecting to Collaborator Server http://localhost:8080
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.CLI jsonlogin
+FINE: Establishing connection to Collaborator server
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.client.LoginUtils checkConnectionSettings
+FINE: connecting to server with url='http://localhost:8080/xmlrpc/secure' user='user1' password='(blank)'
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils loadRaw
+FINE: Loaded 'loginticketid' = '918346bb57d5ec443799dd2d004cea89' from config file
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.useragent = Jakarta Commons-HttpClient/3.1
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.connection-manager.class = class org.apache.commons.httpclient.SimpleHttpConnectionManager
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.cookie-policy = default
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.element-charset = US-ASCII
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.content-charset = ISO-8859-1
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.method.retry-handler = org.apache.commons.httpclient.DefaultHttpMethodRetryHandler@2e1c3062
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.dateparser.patterns = [EEE, dd MMM yyyy HH:mm:ss zzz, EEEE, dd-MMM-yy HH:mm:ss zzz, EEE MMM d HH:mm:ss yyyy, EEE, dd-MMM-yyyy HH:mm:ss z, EEE, dd-MMM-yyyy HH-mm-ss z, EEE, dd MMM yy HH:mm:ss z, EEE dd-MMM-yyyy HH:mm:ss z, EEE dd MMM yyyy HH:mm:ss z, EEE dd-MMM-yyyy HH-mm-ss z, EEE dd-MMM-yy HH:mm:ss z, EEE dd MMM yy HH:mm:ss z, EEE,dd-MMM-yy HH:mm:ss z, EEE,dd-MMM-yyyy HH:mm:ss z, EEE, dd-MM-yyyy HH:mm:ss z]
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.authentication.preemptive = true
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.useragent = Collaborator 9.4.9401
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: Java version: 1.7.0_80
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: Java vendor: Oracle Corporation
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: Java class path: C:\Program Files\Collaborator Client 9.4.9401\.install4j\i4jruntime.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\asm-all-3.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\com.microsoft.tfs.sdk-11.0.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-beanutils-core.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-codec-1.3.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-httpclient.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-io.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\commons-lang.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\cxf-2.3.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-activation_1.1_spec-1.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-annotation_1.0_spec-1.1.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-javamail_1.4_spec-1.7.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-jaxws_2.2_spec-1.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-stax-api_1.0_spec-1.0.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\geronimo-ws-metadata_2.0_spec-1.1.3.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\guava-11.0.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\gwt-user.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jackson-annotations-2.2.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jackson-core-2.2.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jackson-databind-2.2.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jackson-module-mrbean-2.2.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jaxb-api-2.2.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jaxb-impl-2.2.1.1.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jsr173_1.0_api.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\jsr173_1.0_ri.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\mksapi.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\neethi-2.0.4.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\saaj-api-1.3.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\saaj-impl-1.3.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-ccollab-client-common.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-ccollab-datamodel.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-ccollab-soap.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-code-analysis.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-common.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\smartbear-scm.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\stax2-api-3.0.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\woodstox-core-asl-4.0.8.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\woodstox-msv-core-2.0.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\woodstox-msv-rng-datatype-1.0.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\woodstox-msv-xsdlib-2.0.0.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\ws-commons-util-1.0.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\xmlrpc-client.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\xmlrpc-common.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator_9.4.9401.001\libs\XmlSchema-1.4.7.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator.libdependencies_9.4.9401.001\commons-logging.jar;C:\Program Files\Collaborator Client 9.4.9401\.\ui\plugins\com.smartbear.collaborator.libdependencies_9.4.9401.001\wsdl4j-1.6.2.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\activation.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\commons-cli-2.0-SNAPSHOT-553540.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\gwt-user.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\smartbear-ccollab-cmdline.jar;C:\Program Files\Collaborator Client 9.4.9401\.\lib\smartbear-code-analysis.jar;
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: Operating system name: Windows 8
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: Operating system architecture: amd64
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: Operating system version: 6.2
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SUN 1.7: SUN (DSA key/parameter generation; DSA signing; SHA-1, MD5 digests; SecureRandom; X.509 certificates; JKS keystore; PKIX CertPathValidator; PKIX CertPathBuilder; LDAP, Collection CertStores, JavaPolicy Policy; JavaLoginConfig Configuration)
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SunRsaSign 1.7: Sun RSA signature provider
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SunEC 1.7: Sun Elliptic Curve provider (EC, ECDSA, ECDH)
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SunJSSE 1.7: Sun JSSE provider(PKCS12, SunX509 key/trust factories, SSLv3, TLSv1)
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SunJCE 1.7: SunJCE Provider (implements RSA, DES, Triple DES, AES, Blowfish, ARCFOUR, RC2, PBE, Diffie-Hellman, HMAC)
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SunJGSS 1.7: Sun (Kerberos v5, SPNEGO)
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SunSASL 1.7: Sun SASL provider(implements client mechanisms for: DIGEST-MD5, GSSAPI, EXTERNAL, PLAIN, CRAM-MD5, NTLM; server mechanisms for: DIGEST-MD5, GSSAPI, CRAM-MD5, NTLM)
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: XMLDSig 1.0: XMLDSig (DOM XMLSignatureFactory; DOM KeyInfoFactory)
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SunPCSC 1.7: Sun PC/SC provider
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpClient <clinit>
+FINE: SunMSCAPI 1.7: Sun's Microsoft Crypto API provider
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils loadRaw
+FINE: Loaded 'clientguid' = '2d5678366b7bd8986c5a94eec5d83ca8' from config file
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.default-headers = [X-Smart-Bear-Client-GUID: 2d5678366b7bd8986c5a94eec5d83ca8
+, X-Smart-Bear-Build: 9401
+, WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89
+]
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodDirector executeMethod
+FINE: Preemptively sending default basic credentials
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodDirector authenticateHost
+FINE: Authenticating with BASIC <any realm>@localhost:8080
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.params.HttpMethodParams getCredentialCharset
+FINE: Credential charset not configured, using HTTP element charset
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpConnection open
+FINE: Open connection to localhost:8080
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "POST /xmlrpc/secure HTTP/1.1[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodBase addHostRequestHeader
+FINE: Adding Host request header
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Type: text/xml[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "User-Agent: Apache XML RPC 3.0 (Jakarta Commons httpclient Transport)[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "X-Smart-Bear-Client-GUID: 2d5678366b7bd8986c5a94eec5d83ca8[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "X-Smart-Bear-Build: 9401[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Authorization: Basic ********[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Host: localhost:8080[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Length: 183[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "<?xml version="1.0" encoding="UTF-8"?><methodCall xmlns:ex="http://ws.apache.org/xmlrpc/namespaces/extensions"><methodName>ccollab4.getServerVersion</methodName><params/></methodCall>"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.methods.EntityEnclosingMethod writeRequestBody
+FINE: Request body sent
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Server: Apache-Coyote/1.1[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Set-Cookie: JSESSIONID=A225D617987EBC2DE96F872D2B2A5DAB; Path=/; HttpOnly[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "WWW-authenticate CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "X-FRAME-OPTIONS: SAMEORIGIN[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Expires: Tue, 31 Dec 1997 23:59:59 GMT[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Pragma: private[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Cache-Control: must-revalidate[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Type: text/xml[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Length: 192[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Date: Tue, 19 Apr 2016 08:51:33 GMT[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.cookie.CookieSpecBase parseAttribute
+FINE: Unrecognized cookie attribute: name=HttpOnly, value=null
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodBase processCookieHeaders
+FINE: Cookie accepted: "$Version=0; JSESSIONID=A225D617987EBC2DE96F872D2B2A5DAB; $Path=/"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "<"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "?"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "x"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "m"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "l version="1.0" encoding="UT"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "F"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "-"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "8"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << """
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "?"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << ">"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "<methodResponse xmlns:ex="http://ws.apache.org/xmlrpc/namespaces/extensions"><params><param><value><i4>9501</i4></value></param></params></methodResponse>"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Resorting to protocol version default close connection policy
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Should NOT close connection, using HTTP/1.1
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpConnection releaseConnection
+FINE: Releasing connection back to connection manager.
+квіт 19, 2016 11:51:33 AM com.smartbear.ccollab.datamodel.xmlrpc.XmlRpcClientEngineImplementation$1 apply
+FINE: Login ticket received from server.
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils loadRaw
+FINE: Loaded 'loginticketid' = '918346bb57d5ec443799dd2d004cea89' from config file
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpConnection open
+FINE: Open connection to localhost:8080
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "POST http://localhost:8080/services/json/v1?debug=true HTTP/1.1[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodBase addHostRequestHeader
+FINE: Adding Host request header
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Host: localhost:8080[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Length: 71[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[{"command":"ServerInfoService.getMinimumJavaClientBuild","args":null}]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.methods.EntityEnclosingMethod writeRequestBody
+FINE: Request body sent
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Server: Apache-Coyote/1.1[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Type: application/json;charset=utf-8[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Length: 81[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Date: Tue, 19 Apr 2016 08:51:33 GMT[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[\r][\n]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodBase getResponseBody
+FINE: Buffering response body
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[{"result":{"minimumJavaClientBuild":7024}},{"debugLogId":"3191731837588774570"}]"
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Resorting to protocol version default close connection policy
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Should NOT close connection, using HTTP/1.1
+квіт 19, 2016 11:51:33 AM org.apache.commons.httpclient.HttpConnection releaseConnection
+FINE: Releasing connection back to connection manager.
+квіт 19, 2016 11:51:33 AM sun.net.www.protocol.http.HttpURLConnection writeRequests
+FINE: sun.net.www.MessageHeader@60373f635 pairs: {GET /services/jsonDebugLog?id=3191731837588774570 HTTP/1.1: null}{User-Agent: Java/1.7.0_80}{Host: localhost:8080}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+квіт 19, 2016 11:51:33 AM sun.net.www.protocol.http.HttpURLConnection getInputStream
+FINE: sun.net.www.MessageHeader@6cb6a5f35 pairs: {null: HTTP/1.1 200 OK}{Server: Apache-Coyote/1.1}{Content-Type: text/plain}{Transfer-Encoding: chunked}{Date: Tue, 19 Apr 2016 08:51:33 GMT}
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:33 AM com.smartbear.beans.ConfigUtils loadRaw
+FINE: Loaded 'loginticketid' = '918346bb57d5ec443799dd2d004cea89' from config file
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.authentication.preemptive = true
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.useragent = Collaborator 9.4.9401
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.default-headers = [X-Smart-Bear-Client-GUID: 2d5678366b7bd8986c5a94eec5d83ca8
+, X-Smart-Bear-Build: 9401
+, WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89
+]
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodDirector executeMethod
+FINE: Preemptively sending default basic credentials
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodDirector authenticateHost
+FINE: Authenticating with BASIC <any realm>@localhost:8080
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.HttpMethodParams getCredentialCharset
+FINE: Credential charset not configured, using HTTP element charset
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpConnection open
+FINE: Open connection to localhost:8080
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "POST /xmlrpc/secure HTTP/1.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase addHostRequestHeader
+FINE: Adding Host request header
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Type: text/xml[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "User-Agent: Apache XML RPC 3.0 (Jakarta Commons httpclient Transport)[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "X-Smart-Bear-Client-GUID: 2d5678366b7bd8986c5a94eec5d83ca8[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "X-Smart-Bear-Build: 9401[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Authorization: Basic ********[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Host: localhost:8080[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Length: 192[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "<?xml version="1.0" encoding="UTF-8"?><methodCall xmlns:ex="http://ws.apache.org/xmlrpc/namespaces/extensions"><methodName>ccollab4.getMinimumJavaClientBuild</methodName><params/></methodCall>"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.methods.EntityEnclosingMethod writeRequestBody
+FINE: Request body sent
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Server: Apache-Coyote/1.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Set-Cookie: JSESSIONID=74181C7BD8343CA6B8377D8BC39A2112; Path=/; HttpOnly[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "WWW-authenticate CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "X-FRAME-OPTIONS: SAMEORIGIN[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Expires: Tue, 31 Dec 1997 23:59:59 GMT[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Pragma: private[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Cache-Control: must-revalidate[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Type: text/xml[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Length: 192[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Date: Tue, 19 Apr 2016 08:51:33 GMT[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.cookie.CookieSpecBase parseAttribute
+FINE: Unrecognized cookie attribute: name=HttpOnly, value=null
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase processCookieHeaders
+FINE: Cookie accepted: "$Version=0; JSESSIONID=74181C7BD8343CA6B8377D8BC39A2112; $Path=/"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "<"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "?"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "x"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "m"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "l version="1.0" encoding="UT"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "F"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "-"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "8"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << """
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "?"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << ">"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "<methodResponse xmlns:ex="http://ws.apache.org/xmlrpc/namespaces/extensions"><params><param><value><i4>7024</i4></value></param></params></methodResponse>"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Resorting to protocol version default close connection policy
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Should NOT close connection, using HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpConnection releaseConnection
+FINE: Releasing connection back to connection manager.
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.datamodel.xmlrpc.XmlRpcClientEngineImplementation$1 apply
+FINE: Login ticket received from server.
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils loadRaw
+FINE: Loaded 'loginticketid' = '918346bb57d5ec443799dd2d004cea89' from config file
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils checkServerBuildHighEnough
+FINE: Current server version: 9501
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils checkClientCompatibility
+FINE: Current client version: 9401
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils loadRaw
+FINE: Loaded 'loginticketid' = '918346bb57d5ec443799dd2d004cea89' from config file
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.authentication.preemptive = true
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.useragent = Collaborator 9.4.9401
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.default-headers = [X-Smart-Bear-Client-GUID: 2d5678366b7bd8986c5a94eec5d83ca8
+, X-Smart-Bear-Build: 9401
+, WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89
+]
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.DefaultHttpParams setParameter
+FINE: Set parameter http.protocol.version = HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodDirector executeMethod
+FINE: Preemptively sending default basic credentials
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodDirector authenticateHost
+FINE: Authenticating with BASIC <any realm>@localhost:8080
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.params.HttpMethodParams getCredentialCharset
+FINE: Credential charset not configured, using HTTP element charset
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpConnection open
+FINE: Open connection to localhost:8080
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "POST /xmlrpc/secure HTTP/1.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase addHostRequestHeader
+FINE: Adding Host request header
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Type: text/xml[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "User-Agent: Apache XML RPC 3.0 (Jakarta Commons httpclient Transport)[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "X-Smart-Bear-Client-GUID: 2d5678366b7bd8986c5a94eec5d83ca8[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "X-Smart-Bear-Build: 9401[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Authorization: Basic ********[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Host: localhost:8080[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Length: 186[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "<?xml version="1.0" encoding="UTF-8"?><methodCall xmlns:ex="http://ws.apache.org/xmlrpc/namespaces/extensions"><methodName>ccollab4.getLicensedFeatures</methodName><params/></methodCall>"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.methods.EntityEnclosingMethod writeRequestBody
+FINE: Request body sent
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Server: Apache-Coyote/1.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Set-Cookie: JSESSIONID=84E76835844487B9486A7AC5F8DC3573; Path=/; HttpOnly[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "WWW-authenticate CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "WWW-authenticate-CodeCollabTicket: 918346bb57d5ec443799dd2d004cea89[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "X-FRAME-OPTIONS: SAMEORIGIN[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Expires: Tue, 31 Dec 1997 23:59:59 GMT[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Pragma: private[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Cache-Control: must-revalidate[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Type: text/xml[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Length: 4363[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Date: Tue, 19 Apr 2016 08:51:33 GMT[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.cookie.CookieSpecBase parseAttribute
+FINE: Unrecognized cookie attribute: name=HttpOnly, value=null
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase processCookieHeaders
+FINE: Cookie accepted: "$Version=0; JSESSIONID=84E76835844487B9486A7AC5F8DC3573; $Path=/"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "<"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "?"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "x"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "m"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "l version="1.0" encoding="UT"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "F"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "-"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "8"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << """
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "?"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << ">"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "<methodResponse xmlns:ex="http://ws.apache.org/xmlrpc/namespaces/extensions"><params><param><value><struct><member><name>supportsCustomizableNotifications</name><value><boolean>1</boolean></value></member><member><name>getFavoritesIconPath</name><value>i/cc.ico</value></member><member><name>getSecondaryName</name><value></value></member><member><name>supportsReports</name><value><boolean>1</boolean></value></member><member><name>supportsChecklists</name><value><boolean>1</boolean></value></member><member><name>supportsExternalLinks</name><value><boolean>1</boolean></value></member><member><name>supportsInProductManual</name><value><boolean>1</boolean></value></member><member><name>isCommunityPageEnabled</name><value><boolean>0</boolean></value></member><member><name>collectsMetrics</name><value><boolean>1</boolean></value></member><member><name>getSupportedDatabaseTokens</name><value><array><data><value>HSQL Database Engine</value><value>MySQL</value><value>Oracle</value><value>Microsoft SQL Server</value></data></array></value></member><member><name>getToken</name><value>enterprise</value></member><member><name>receivesSupport</name><value><boolean>1</boolean></value></member><member><name>supportsSystemWideMessage</name><value><boolean>1</boolean></value></member><member><name>supportsMultipleWorkflows</name><value><boolean>1</boolean></value></member><member><name>supportsEclipse</name><value><boolean>1</boolean></value></member><member><name>supportsReviewCustomFields</name><value><boolean>1</boolean></value></member><member><name>canRestrictAccessToSystemDump</name><value><boolean>1</boolean></value></member><member><name>canRestrictAccessToReviewContent</name><value><boolean>1</boolean></value></member><member><name>supportsDocumentDiff</name><value><boolean>1</boolean></value></member><member><name>getPrimaryName</name><value>Collaborator</value></member><member><name>supportsDocumentReview</name><value><boolean>1</boolean></value></member><member><name>canRestrictAccessToFixDefect</name><value><boolean>1</boolean></value></member><member><name>supportsExternalAuthentication</name><value><boolean>1</boolean></value></member><member><name>getCreateUserSubtext</name><value>Should be the same as your version control login.</value></member><member><name>canChangePublicUrl</name><value><boolean>1</boolean></value></member><member><name>supportsAttachUrl</name><value><boolean>1</boolean></value></member><member><name>canConfigureLicensing</name><value><boolean>1</boolean></value></member><member><name>canConfigureSmtpServer</name><value><boolean>1</boolean></value></member><member><name>getStyleName</name><value>collaborator</value></member><member><name>supportsFileArchiving</name><value><boolean>1</boolean></value></member><member><name>canDisablePublicCreateUserForm</name><value><boolean>1</boolean></value></member><member><name>supportsSpreadsheetReview</name><value><boolean>1</boolean></value></member><member><name>canDisableCommunityPage</name><value><boolean>1</boolean></value></member><member><name>getName</name><value>Collaborator</value></member><member><name>supportsElectronicSignatures</name><value><boolean>1</boolean></value></member><member><name>getSupportedScmTokens</name><value><array><data><value>subversion</value><value>cvs</value><value>perforce</value><value>clearcase</value><value>tfs</value><value>vss</value><value>cmvc</value><value>accurev</value><value>starteam</value><value>mercurial</value><value>git</value><value>synergy</value><value>rtc</value><value>surround</value><value>mks</value><value>vault</value></data></array></value></member><member><name>supportsGroups</name><value><boolean>1</boolean></value></member><member><name>supportsParticipantCustomFields</name><value><boolean>1</boolean></value></member><member><name>supportsServerSideTriggers</name><value><boolean>1</boolean></value></member><member><name>supportsDefectCustomFields</name><value><boolean>1</boolean></value></member><member><name>supportsReviewDeadlines</name><value><boolean>1</boolean></value></member><member><name>canRestrictUploadToReviewContent</name><value><boolean>1</boolean></value></member><member><name>supportsStalledReviewNotifications</name><value><boolean>1</boolean></value></member></struct></value></param></params></methodResponse>"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Resorting to protocol version default close connection policy
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Should NOT close connection, using HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpConnection releaseConnection
+FINE: Releasing connection back to connection manager.
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.datamodel.xmlrpc.XmlRpcClientEngineImplementation$1 apply
+FINE: Login ticket received from server.
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils loadRaw
+FINE: Loaded 'loginticketid' = '918346bb57d5ec443799dd2d004cea89' from config file
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils establishJsonConnection
+FINE: client version: Collaborator version 9.4.9401.001
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils establishJsonConnection
+FINE: Connected to server build 9501
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpConnection open
+FINE: Open connection to localhost:8080
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "POST http://localhost:8080/services/json/v1?debug=true HTTP/1.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase addHostRequestHeader
+FINE: Adding Host request header
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Host: localhost:8080[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Length: 205[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[{"command":"ServerInfoService.getSystemGlobalValues","args":{"systemGlobalValuesNames":["license-company-key","license-node-id","license-fixed-seats","license-floating-seats","license-expiration-date"]}}]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.methods.EntityEnclosingMethod writeRequestBody
+FINE: Request body sent
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Server: Apache-Coyote/1.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Type: application/json;charset=utf-8[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Length: 226[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Date: Tue, 19 Apr 2016 08:51:33 GMT[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase getResponseBody
+FINE: Buffering response body
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[{"result":{"systemGlobalValues":{"license-company-key":"trial","license-floating-seats":"-1","license-node-id":"41F3077E","license-expiration-date":"1481673600","license-fixed-seats":"-1"}}},{"debugLogId":"8828928442820442"}]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Resorting to protocol version default close connection policy
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Should NOT close connection, using HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpConnection releaseConnection
+FINE: Releasing connection back to connection manager.
+квіт 19, 2016 11:51:34 AM sun.net.www.protocol.http.HttpURLConnection writeRequests
+FINE: sun.net.www.MessageHeader@35c2e7f55 pairs: {GET /services/jsonDebugLog?id=8828928442820442 HTTP/1.1: null}{User-Agent: Java/1.7.0_80}{Host: localhost:8080}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+квіт 19, 2016 11:51:34 AM sun.net.www.protocol.http.HttpURLConnection getInputStream
+FINE: sun.net.www.MessageHeader@f0aa1665 pairs: {null: HTTP/1.1 200 OK}{Server: Apache-Coyote/1.1}{Content-Type: text/plain}{Transfer-Encoding: chunked}{Date: Tue, 19 Apr 2016 08:51:33 GMT}
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils establishJsonConnection
+FINE: Server license company key: trial
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils establishJsonConnection
+FINE: Server license node ID: 41F3077E
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils establishJsonConnection
+FINE: Server license fixed seats:-1
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils establishJsonConnection
+FINE: Server license floating seats: -1
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.LoginUtils establishJsonConnection
+FINE: Server license upgrades until: 2016-12-14T02:00:00+02:00
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpConnection open
+FINE: Open connection to localhost:8080
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "POST http://localhost:8080/services/json/v1?debug=true HTTP/1.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase addHostRequestHeader
+FINE: Adding Host request header
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "User-Agent: Jakarta Commons-HttpClient/3.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Host: localhost:8080[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Length: 68[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: >> "[{"command":"UserService.findUserByLogin","args":{"login":"user1"}}]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.methods.EntityEnclosingMethod writeRequestBody
+FINE: Request body sent
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "HTTP/1.1 200 OK[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Server: Apache-Coyote/1.1[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Type: application/json;charset=utf-8[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Content-Length: 193[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "Date: Tue, 19 Apr 2016 08:51:33 GMT[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[\r][\n]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase getResponseBody
+FINE: Buffering response body
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.Wire wire
+FINE: << "[{"result":{"enabled":true,"guid":"ccac9c6cdb947a478a8fe826e9d0a219","fullName":"user1","admin":true,"login":"user1","email":"guar@ciklum.com","phone":""}},{"debugLogId":"8525542245849645997"}]"
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Resorting to protocol version default close connection policy
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpMethodBase shouldCloseConnection
+FINE: Should NOT close connection, using HTTP/1.1
+квіт 19, 2016 11:51:34 AM org.apache.commons.httpclient.HttpConnection releaseConnection
+FINE: Releasing connection back to connection manager.
+квіт 19, 2016 11:51:34 AM sun.net.www.protocol.http.HttpURLConnection writeRequests
+FINE: sun.net.www.MessageHeader@21c22eaf5 pairs: {GET /services/jsonDebugLog?id=8525542245849645997 HTTP/1.1: null}{User-Agent: Java/1.7.0_80}{Host: localhost:8080}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+квіт 19, 2016 11:51:34 AM sun.net.www.protocol.http.HttpURLConnection getInputStream
+FINE: sun.net.www.MessageHeader@5386f4795 pairs: {null: HTTP/1.1 200 OK}{Server: Apache-Coyote/1.1}{Content-Type: text/plain}{Transfer-Encoding: chunked}{Date: Tue, 19 Apr 2016 08:51:33 GMT}
+квіт 19, 2016 11:51:34 AM com.smartbear.progress.CommandLineProgressMonitor setTaskName
+FINE: Connected as: user1 (user1)
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: Loading preferences: C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt exists
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils logConfigFile
+FINE: File C:\Users\guar\.smartbear\com.smartbear.ccollab.client.txt can be read
+квіт 19, 2016 11:51:34 AM com.smartbear.beans.ConfigUtils loadRaw
+FINE: Loaded 'loginticketid' = '918346bb57d5ec443799dd2d004cea89' from config file
+квіт 19, 2016 11:51:34 AM com.smartbear.progress.CommandLineProgressMonitor setTaskName
+FINE: Attaching changelist to review
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.ScmUtils requireScm
+FINE: Requiring SCM configuration for path: .
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.ScmUtils requireScm
+FINE: Supported SCMS are: [com.smartbear.scm.impl.accurev.AccuRevSystem@35e7f0b, com.smartbear.scm.impl.clearcase.ClearCaseSystem@4edfa6f0, com.smartbear.scm.impl.concurrentvs.CvsSystem@50cf99e8, INSTANCE, INSTANCE, com.smartbear.scm.impl.subversion.SubversionSystem@7a3d55da, com.smartbear.scm.impl.tfs.TfsSystem@3d48ff04, com.smartbear.scm.impl.mks.MksSystem@1b3e315, com.smartbear.scm.impl.none.NoneSystem@275206d0]
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.ScmUtils requireScm
+FINE: Creating client configuration with options: ScmOptions: {
+   current-directory = (Empty)
+   global-provider = (Empty)
+   scm = (Empty)
+
+   (AccuRev only)
+      accurev-depot = (Empty)
+      accurev-exe = accurev
+      accurev-anc-algorithm = (Empty)
+
+   (ClearCase only)
+      ccrc-server-url = (Empty)
+      ccrc-user = (Empty)
+      ccrc-passwd = (Empty)
+      clearcase-exe = (Empty)
+      clearcase-update-snapshot = false
+      clearcase-view-directory = (Empty)
+
+   (CVS only)
+      cvs-exe = cvs
+      cvsroot = (Empty)
+
+   (Git only)
+      git-exe = (Empty)
+      git-repository = (Empty)
+      git-skip-index = false
+
+   (Mercurial only)
+      mercurial-exe = hg
+
+   (Perforce only)
+      p4 = (Empty)
+      p4port = (Empty)
+      p4user = (Empty)
+      p4passwd = (Empty)
+      p4client = (Empty)
+      p4-ignore-integration-history = false
+      p4-protects-script = (Empty)
+      p4charset = (Empty)
+      p4-require-empty-default-changelist = false
+      p4-change-content-trigger = false
+      p4-specify-command-charset = true
+      p4-test-p4java = false
+
+   (PTC Integrity only)
+      mks-host = (Empty)
+      mks-port = (Empty)
+      mks-user = (Empty)
+      mks-passwd = (Empty)
+      mks-expand-keywords = true
+
+   (Rational Synergy only)
+      ccm-exe = ccm
+      ccm-user = (Empty)
+      ccm-passwd = (Empty)
+      ccm-engine-host = (Empty)
+      ccm-database-path = (Empty)
+      ccm-local-database-path = (Empty)
+      ccm-remote-client = false
+      ccm-server-url = (Empty)
+
+   (Rational Team Concert only)
+      rtc-repository-uri = (Empty)
+      rtc-username = (Empty)
+      rtc-password = (Empty)
+      add-assignments = (Empty)
+      remove-assignments = (Empty)
+      approve-assignments = (Empty)
+      rtc-impl = (Empty)
+
+   (Subversion only)
+      svn-exe = svn
+      svn-look-exe = (Empty)
+      svn-repo-url = (Empty)
+      svn-user = (Empty)
+      svn-passwd = (Empty)
+      svn-require-client-certificate-password = false
+      svn-auto-add = false
+      svn-recurse-externals = false
+      repo = (Empty)
+      svn-repo-path = (Empty)
+      svn-test-javahl = false
+
+   (Team Foundation Server only)
+      tfs-collection = (Empty)
+      tfs-server = (Empty)
+      tfs-exe = (Empty)
+      tfs-user = (Empty)
+      tfs-passwd = (Empty)
+
+}
+квіт 19, 2016 11:51:34 AM com.smartbear.progress.CommandLineProgressMonitor setTaskName
+FINE: Auto-detecting SCM System for '.'
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.ScmUtils requireScm
+FINE: trying scm system AccuRev
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 1 CommandLine: [accurev, info, -v]
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 1 working directory: .
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 1 env: {}
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.ScmUtils requireScm
+FINE: trying scm system ClearCase
+квіт 19, 2016 11:51:34 AM com.smartbear.cmdline.CommandLine getCommandLine
+FINE: cmdline: WD: C:\Users\guar\Documents\smartbear\collab-github-v2; "cleartool" "hostinfo" "-long"
+квіт 19, 2016 11:51:34 AM com.smartbear.cmdline.CommandLine getCommandLine
+FINE: Converted for Windows: "cleartool" "hostinfo" "-long"
+квіт 19, 2016 11:51:34 AM com.smartbear.cmdline.CommandLine getCommandLine
+FINE: cmdline: WD: C:\Users\guar\Documents\smartbear\collab-github-v2; "cleartool" "hostinfo" "-long"
+квіт 19, 2016 11:51:34 AM com.smartbear.cmdline.CommandLine getCommandLine
+FINE: Converted for Windows: "cleartool" "hostinfo" "-long"
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.impl.clearcase.ClearCaseSystem getClientConfiguration
+FINE: com.smartbear.cmdline.CommandLineExeMissingException: cleartool not found: Possibly missing from path
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.ScmUtils requireScm
+FINE: trying scm system CVS
+квіт 19, 2016 11:51:34 AM com.smartbear.cmdline.CommandLine getCommandLine
+FINE: cmdline: WD: C:\Users\guar\Documents\smartbear\collab-github-v2; "cvs" "ver"
+квіт 19, 2016 11:51:34 AM com.smartbear.cmdline.CommandLine getCommandLine
+FINE: Converted for Windows: "cvs" "ver"
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.ScmUtils requireScm
+FINE: trying scm system Git
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.impl.git.GitSystem getClientConfiguration
+FINE: Possible in-repo directory=C:\Users\guar\Documents\smartbear\collab-github-v2
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 2 CommandLine: [git, rev-parse, --show-toplevel]
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 2 working directory: null
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 2 env: {}
+квіт 19, 2016 11:51:34 AM com.smartbear.util.PoolThreadFactory newThread
+INFO: Thread CommandRunner-526290077-1 created by thread main
+квіт 19, 2016 11:51:34 AM com.smartbear.util.PoolThreadFactory newThread
+INFO: Thread CommandRunner-526290077-2 created by thread main
+квіт 19, 2016 11:51:34 AM com.smartbear.util.PoolThreadFactory newThread
+INFO: Thread CommandRunner-526290077-3 created by thread main
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 2 contents of stdin:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 2 contents of stdout:
+00000000 433a2f5573657273 2f677561722f446f
+00000010 63756d656e74732f 736d617274626561
+00000020 722f636f6c6c6162 2d6769746875622d
+00000030 76320a433a2f5573 6572732f67756172
+00000040 2f446f63756d656e 74732f736d617274
+00000050 626561722f636f6c 6c61622d67697468
+00000060 75622d76320a
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 2 contents of stderr:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 2 exit code: 0
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 3 CommandLine: [git, --version]
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 3 working directory: null
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 3 env: {}
+квіт 19, 2016 11:51:34 AM com.smartbear.util.PoolThreadFactory newThread
+INFO: Thread CommandRunner-916523362-1 created by thread main
+квіт 19, 2016 11:51:34 AM com.smartbear.util.PoolThreadFactory newThread
+INFO: Thread CommandRunner-916523362-2 created by thread main
+квіт 19, 2016 11:51:34 AM com.smartbear.util.PoolThreadFactory newThread
+INFO: Thread CommandRunner-916523362-3 created by thread main
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 3 contents of stdin:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 3 contents of stdout:
+00000000 6769742076657273 696f6e20322e372e
+00000010 302e77696e646f77 732e310a67697420
+00000020 76657273696f6e20 322e372e302e7769
+00000030 6e646f77732e310a
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 3 contents of stderr:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 3 exit code: 0
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 4 CommandLine: [git, branch]
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 4 working directory: null
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 4 env: {}
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 4 contents of stdin:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 4 contents of stdout:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 4 contents of stderr:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 4 exit code: 0
+квіт 19, 2016 11:51:34 AM com.smartbear.progress.CommandLineProgressMonitor setTaskName
+FINE: Detected Git
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.ScmUtils log
+FINE: Client configuration: GIT_DIR=C:\Users\guar\Documents\smartbear\collab-github-v2
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.commands.argrefs.FileSpecLocalCheckoutRef getCheckouts
+FINE: found directory: .
+квіт 19, 2016 11:51:34 AM com.smartbear.progress.CommandLineProgressMonitor setTaskName
+FINE: Scanning directory . for modified files
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 5 CommandLine: [git, log, --pretty=raw, --raw, --abbrev=40, -M, -1, HEAD, --]
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 5 working directory: null
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 5 env: {}
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 5 contents of stdin:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 5 contents of stdout:
+00000000 636f6d6d69742035 3432393062313862
+00000010 3431323932616433 3636323032666664
+00000020 6636306565633532 376632303364370a
+00000030 7472656520366562 6637613839366233
+00000040 3337313134316132 3931616331363534
+00000050 3238383031333138 61303631380a7061
+00000060 72656e7420363136 3339383138396238
+00000070 3661626336366161 3938363738326664
+00000080 6666643137666364 63393038380a7061
+00000090 72656e7420636431 3866643461656436
+000000a0 3830613635653739 3232363634653965
+000000b0 6465643334363530 62363862320a6175
+000000c0 74686f7220417274 656d20477562616e
+000000d0 6f76203c61727465 6d2e677562616e6f
+000000e0 7640736d61727462 6561722e636f6d3e
+000000f0 2031343630393832 363931202b303330
+00000100 636f6d6d69742035 3432393062313862
+00000110 3431323932616433 3636323032666664
+00000120 6636306565633532 376632303364370a
+00000130 7472656520366562 6637613839366233
+00000140 3337313134316132 3931616331363534
+00000150 3238383031333138 61303631380a7061
+00000160 72656e7420363136 3339383138396238
+00000170 3661626336366161 3938363738326664
+00000180 6666643137666364 63393038380a7061
+00000190 72656e7420636431 3866643461656436
+000001a0 3830613635653739 3232363634653965
+000001b0 6465643334363530 62363862320a6175
+000001c0 74686f7220417274 656d20477562616e
+000001d0 6f76203c61727465 6d2e677562616e6f
+000001e0 7640736d61727462 6561722e636f6d3e
+000001f0 2031343630393832 363931202b303330
+00000200 300a636f6d6d6974 7465722041727465
+00000210 6d20477562616e6f 76203c617274656d
+00000220 2e677562616e6f76 40736d6172746265
+00000230 61722e636f6d3e20 3134363039383236
+00000240 3931202b30333030 0a0a202020204d65
+00000250 726765206272616e 636820276d617374
+00000260 65722720696e746f 206363630a
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 5 contents of stderr:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 5 exit code: 0
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 6 CommandLine: [git, diff, --raw, --abbrev=40, -M, --cached, --, ]
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 6 working directory: null
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 6 env: {}
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 6 contents of stdin:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 6 contents of stdout:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debugStream
+FINE: 6 contents of stderr:
+
+квіт 19, 2016 11:51:34 AM com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper debug
+FINE: 6 exit code: 0
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.client.commands.argrefs.FileSpecLocalCheckoutRef getCheckouts
+FINE: found 0 modified files in .
+квіт 19, 2016 11:51:34 AM com.smartbear.ccollab.CLI doMain
+FINE: Error running command addchanges
+com.smartbear.ccollab.client.CollabClientInvalidInputException: No modified files found in the given directories
+	at com.smartbear.ccollab.client.commands.CommandAddChanges.doExecute(CommandAddChanges.java:351)
+	at com.smartbear.ccollab.client.commands.CommandAddChanges.executeJson(CommandAddChanges.java:308)
+	at com.smartbear.ccollab.client.commands.admin.review.AbstractReviewCommand.executeJson(AbstractReviewCommand.java:208)
+	at com.smartbear.ccollab.client.commands.Command.validateAndExecute(Command.java:414)
+	at com.smartbear.ccollab.CLI.doMain(CLI.java:1020)
+	at com.smartbear.ccollab.Main.doMain(Main.java:147)
+	at com.smartbear.ccollab.Main.main(Main.java:119)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.exe4j.runtime.LauncherEngine.launch(Unknown Source)
+	at com.exe4j.runtime.WinLauncher.main(Unknown Source)
+	at com.install4j.runtime.launcher.WinLauncher.main(Unknown Source)
+
