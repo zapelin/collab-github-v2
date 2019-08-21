@@ -6,3 +6,4 @@ text1
 >>>>>>> Stashed changes
 text1
 text1
+text1
