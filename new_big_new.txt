@@ -7,7 +7,7 @@
 2016-02-09 18:13:20.634   Processor architecture: x64
 2016-02-09 18:13:20.634   User privileges: Administrative
 2016-02-09 18:13:20.641   64-bit install mode: No
-2016-02-09 18:13:20.644   Created temporary directory: C:\Users\guar\AppData\Local\Temp\is-95GNR.tmp
+2016-02-09 18:13:20.644   Created tasdasemporary directory: C:\Users\guar\AppData\Local\Temp\is-95GNR.tmp
 2016-02-09 18:13:20.6ssss72   Is silent install false
 2016-02-09 18:13:20.927   CheckProcessRunning is called HipChat.exe ResultCode is 0
 2016-02-09 18:13:21.152   CheckProcessRunning is called hipchat.exe ResultCode is 0
