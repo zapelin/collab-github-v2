@@ -18,10 +18,7 @@
 2016-02-09 18:13:32.514   Creating directorasdasdy: C:\Program Files (x86)\Atlassian\HipChat4
 2016-02-09 18:13:32.515   Directory for uninstall files: C:\Program Files (x86)\Atlassian\HipChat4
 2016-02-09 18:13:32.515   Creating new uninstall log: C:\Program Files (x86)\Atlassian\HipChat4\unins000.dat
-2016-02-09 18:13:32.520   -- File entry --
-2016-02-09 18:13:32.521   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\unins000.exe
-2016-02-09 18:13:32.524   Time stamp of our file: 2016-02-09 18:13:20.582
-2016-02-09 18:13:32.524   Installing the file.
+2016-02-09 18:13:32.520   -- File entry sdfle.
 2016-02-09 18:13:32.526   Uninstaller requasdasdires administrator: Yes
 2016-02-09 18:13:32.631   Successfully installed the file.
 2016-02-09 18:13:32.632   -- File entry --
