@@ -1,0 +1,64 @@
+2016-02-09 18:13:20.634   Log opened. (Time zone: UTC+02:00)
+2016-02-09 18:13:20.634   Setup version: Inno Setup version 5.5.6 (a)
+2016-02-09 18:13:20.634   Original Setup EXE: C:\Users\guar\Downloads\HipChat_4.0.1619.exe
+2016-02-09 18:13:20.634   Setup command line: /SL5="$C50E8E,49437914,422400,C:\sdfsfUsers\guar\Downloads\HipChat_4.0.1619.exe" /SPAWNWND=$3908D6 /NOTIFYWND=$5F070E 
+2016-02-09 18:13:20.634   Windows version: 6.3.9600  (NT platform: Yes)
+2016-02-09 18:13:20.634  sss 64-bit Windows: Yes
+2016-02-09 18:13:20.634   Processor architecture: x64
+2016-02-09 18:13:20.634   User privileges: Administrative
+2016-02-09 18:13:20.641   64-bit install mode: No
+2016-02-09 18:13:20.644   Created tasdasemporary directory: C:\Users\guar\AppData\Local\Temp\is-95GNR.tmp
+2016-02-09 18:13:20.6ssss72   Is silent install false
+2016-02-09 18:13:20.927   CheckProcessRunning is called HipChat.exe ResultCode is 0
+2016-02-09 18:13:21.152   CheckProcessRunning is called hipchat.exe ResultCode is 0
+2016-02-09 18:13:26.936   Select directory page is shown
+2016-02-09 18:13:31.702   Install directory C:\Program Files (x86)\Atlassian\HipChat4
+2016-02-09 18:13:32.512   Starting the sdfrogram Files (x86)\Atlassian\HipChat4\unins000.exe
+2016-02-09 18:13:32.524   Time stamp of our file: 2016-02-09 18:13:20.582
+2016-02-09 18:13:32.524   Installing the file.
+2016-02-09 18:13:32.526   Uninstaller requires administrator: Yes
+2016-02-09 18:13:32.631   Successfully installed the file.
+2016-02-09 18:13:32.632   -- File entry --
+2016-02-09 18:13:32.632   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\BsSndRpt.exe
+2016-02-09 18:13:32.632   Time stamp of our file: 2015-07-07 12:48:12.000
+2016-02-09 18:13:32.632   Installing the file.
+2016-02-09 18:13:32.675   Successfully installed the file.
+2016-02-09 18:13:32.676   -- File entry --
+2016-02-09 18:13:32.678   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\BugSplat.dll
+2016-02-09 18:13:32.678   Time stamp of our file: 2015-07-07 12:48:12.000
+2016-02-09 18:13:32.678   Installing the file.
+2016-02-09 18:13:32.711   Successfully installed the file.
+2016-02-09 18:13:32.712   -- File entry --
+2016-02-09 18:13:32.713   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\BugSplatRc.dll
+2016-02-09 18:13:32.713   Time stamp of our file: 2015-08-26 14:55:44.000
+2016-02-09 18:13:32.713   Installing the file.
+2016-02-09 18:13:32.718   Successfully installed the file.
+2016-02-09 18:13:32.719   -- File entry --
+2016-02-09 18:13:32.719   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\d3dcompiler_47.dll
+2016-02-09 18:13:32.719   Time stamp of our file: 2014-03-11 10:54:58.000
+2016-02-09 18:13:32.719   Installing the file.
+2016-02-09 18:13:32.867   Successfully installed the file.
+2016-02-09 18:13:32.867   -- File entry --
+2016-02-09 18:13:32.868   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\HipChat.exe
+2016-02-09 18:13:32.868   Time stamp of our file: 2016-01-12 06:34:14.000
+2016-02-09 18:13:32.868   Installing the file.
+2016-02-09 18:13:32.991   Successfully installed the file.
+2016-02-09 18:13:32.992   -- File entry --
+2016-02-09 18:13:32.992   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\icudt54.dll
+2016-02-09 18:13:32.993   Time stamp of our file: 2015-04-30 09:20:44.000
+2016-02-09 18:13:32.993   Installing the file.
+2016-02-09 18:13:34.253   Successfully installed the file.
+2016-02-09 18:13:34.254   -- File entry --
+2016-02-09 18:13:34.255   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\icudtl.dat
+2016-02-09 18:13:34.255   Time stamp of our file: 2015-11-23 11:34:58.000
+2016-02-09 18:13:34.255   Installing the file.
+2016-02-09 18:13:34.669   Successfully installed the file.
+2016-02-09 18:13:34.669   -- File entry --
+2016-02-09 18:13:34.669   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\icuin54.dll
+2016-02-09 18:13:34.670   Time stamp of our file: 2015-04-30 09:20:34.000
+2016-02-09 18:13:34.670   Installing the file.
+2016-02-09 18:13:34.817   Successfully installed the file.
+2016-02-09 18:13:34.817   -- File entry --
+2016-02-09 18:13:34.818   Dest filename: C:\Program Files (x86)\Atlassian\HipChat4\icuuc54.dll
+2016-02-09 18:13:34.818   Time stamp of our file: 2015-04-30 09:20:30.000
+2016-02-09 18:13:34.818   Installing the file.
