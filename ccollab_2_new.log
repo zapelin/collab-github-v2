@@ -8,18 +8,7 @@ FINE: VM Max Memory: 3797417984aasd
 FINE: VM Current Memory: 255852544
 квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logSystemProperties
 FINE: Logging System Properties
-квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
-FINE:   java.runtime.name:  Java(TM) SE Runtime Environment
-квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
-FINE:   com.microsoft.tfs.jni.native.base-directory:  C:\Program Files\Collaborator Client 9.4.9401\/ui/plugins/com.smartbear.collaborator_9.4.9401.001/libs/native
-квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
-FINE:   exe4j.moduleName:  C:\Program Files\Collaborator Client 9.4.9401\ccollab.exe
-квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
-FINE:   exe4j.semaphoreName:  Local\c:_program_files_collaborator_client_9.4.9401_ccollab.exe0
-квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
-FINE:   sun.boot.library.path:  c:\program files\collaborator client 9.4.9401\jre\bin
-квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
-FINE:   java.vm.version:  24.80-b11
+квіт 19, 2016 11:51sdf
 квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
 FINE:   user.country.format:  UA
 квіт 19, 2016 11:51:32 AM com.smartbear.util.LoggingUtils logProperties
