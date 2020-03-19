@@ -10150,3 +10150,17 @@
 2020-03-19 15:46:21,321 INFO remote-system-16 rsLog - All 1 files found for commit; commit 1/1; review=1073; commit=ef21206417b;
 2020-03-19 15:46:21,321 INFO remote-system-16 rsLog - Processed all 1 commits; review=1073;
 2020-03-19 15:46:23,486 INFO remote-system-16 rsLog - Successfully processed push; review=1073; repo=zapelin/collab-github-v2; branch=master;
+2020-03-19 16:17:02,696 INFO remote-system-0 rsLog - Received push event; repo=zapelin/collab-github-v2; branch=zapelin-patch-178; 
+2020-03-19 16:17:02,697 INFO remote-system-0 rsLog - Terminating, because no commits were found; repo=zapelin/collab-github-v2; branch=zapelin-patch-178; 
+2020-03-19 16:17:03,034 INFO remote-system-1 rsLog - Received push event; repo=zapelin/collab-github-v2; branch=zapelin-patch-178; 
+2020-03-19 16:17:04,729 INFO remote-system-1 rsLog - Found 1 new commits in push; repo=zapelin/collab-github-v2; branch=zapelin-patch-178; commits=[5a18afe252c]; 
+2020-03-19 16:17:09,627 INFO remote-system-2 rsLog - Received new PR event; repo=zapelin/collab-github-v2; pullRequestId=569; sourceBranch=zapelin-patch-178; destinationBranch=master; 
+2020-03-19 16:17:11,457 INFO remote-system-2 rsLog - Found 1 commits in pull request; repo=zapelin/collab-github-v2; pullRequestId=569; commits=[5a18afe252c]; 
+2020-03-19 16:17:11,534 INFO remote-system-2 rsLog - Created review for pull request; review=1074; repo=zapelin/collab-github-v2; pullRequestId=569; 
+2020-03-19 16:17:12,169 INFO remote-system-2 rsLog - Files in commit: 1; commit 1/1; review=1074; commit=5a18afe252c; 
+2020-03-19 16:17:12,169 INFO remote-system-2 rsLog - Start loading file;                     file 1/1; review=1074; commit=5a18afe252c; file=remoteSystem.log; fileVersion=5a18afe252c7; 
+2020-03-19 16:17:12,803 INFO remote-system-2 rsLog - Loading file > 1MB;                     file 1/1; review=1074; commit=5a18afe252c; file=remoteSystem.log; fileVersion=5a18afe252c7; 
+2020-03-19 16:17:14,112 INFO remote-system-2 rsLog - Finished loading file > 1MB;            file 1/1; review=1074; commit=5a18afe252c; file=remoteSystem.log; fileVersion=5a18afe252c7; 
+2020-03-19 16:17:14,113 INFO remote-system-2 rsLog - All 1 files found for commit; commit 1/1; review=1074; commit=5a18afe252c; 
+2020-03-19 16:17:14,113 INFO remote-system-2 rsLog - Processed all 1 commits; review=1074; 
+2020-03-19 16:17:17,873 INFO remote-system-2 rsLog - Review successfully created; review=1074; repo=zapelin/collab-github-v2; pullRequestId=569; 
